@@ -1,0 +1,106 @@
+#header {
+	margin-left:200px
+}
+#logo {
+	margin-left:150px;
+	float:left
+}
+.textBox{  
+
+	border:1px solid #cccccc;
+	border-radius:4px;
+	background-image:url(/home/webwerks/HTML/Images/images/top_search.png);   
+	background-position:right;   
+	background-repeat:no-repeat;   
+	padding-left:3px;
+	background-size: 10px 10px;
+
+}
+body {
+  margin: 0;
+}
+#header{font-family:Yaldevi Jaffna;}
+#header ul {list-style-type:none;
+}
+#header li {float :left;font-size:11px;
+}
+#header li a{
+	
+	color:#737373;	
+	text-align:center;
+	padding:0px 8px;
+  	text-decoration: none;
+	outline:none;
+}
+#header li a:active{
+	
+	color:#A6c936;	
+	text-align:center;
+	padding:0px 8px;
+  	text-decoration: none;
+	outline:none;
+}
+#header  li a:hover{
+	color:#A6c936;
+}
+#sublogo{
+	float:left;
+	margin-left:180px;
+	height:60px;
+  	width: 45px;
+	background-color:#A6A9A2;
+		
+}
+#sub {
+	background-color:#A6A9A2;
+	color:white;
+	margin:0;
+	padding:0;
+	font-size:15px;      
+}
+
+.button {
+  	background-color:#646560;
+  	border: 2px solid white;
+  	color: white;
+  	padding: 9px 9px;
+  	text-align: center;
+  	text-decoration: none;
+  	border-radius:4px;
+  	font-size: 11px;
+  	font-family:Yaldevi Jaffna;
+  	width: 110px;
+
+}
+#content {
+	margin-left:150px;
+	color:#737373;
+	font-family:Yaldevi Jaffna;
+}
+#content img{
+	border: 5px solid #737373;
+	margin-right:150px;
+	margin-top:100px;
+}
+#content ul{
+	list-style-image:url(/home/webwerks/HTML/Images/images/arrow1.png);
+}
+.button1 {
+  	background-color:#A9CA25;
+  	
+  	color: white;
+  	padding: 9px 9px;
+  	text-align: center;
+  	text-decoration: none;
+  	border-radius:4px;
+  	font-size: 11px;
+  	font-family:Yaldevi Jaffna;
+  	width: 110px;
+
+}
+
+
+
+
+
+
